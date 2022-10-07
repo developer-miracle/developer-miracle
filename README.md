@@ -20,9 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge?style=flat&logo=Linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE-873b44252/)
+- :zap: In my free time, I'm working on a pet-project and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE-873b44252/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img>
