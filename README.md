@@ -60,8 +60,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-
-
 ---
 
 <div id="header" align="center">
@@ -87,29 +85,11 @@ https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="100"/>
 </div>
 
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uSHMDTUL7lKso/giphy.gif" width="100%"/>
 </div>
 <img src="https://media.giphy.com/media/lVk3vhcbd9SzI5KxVw/giphy.gif" width="100px"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmiracle&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmiracle)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmiracle&layout=radical)](https://github.com/alikiny/github-readme-stats)
-
-
-<!--
-**devMiracle/devmiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
