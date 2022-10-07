@@ -49,6 +49,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devMiracle/devicon/blob/master/icons/php/php-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devmiracle&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
@@ -56,6 +61,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
+
+---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
