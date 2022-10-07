@@ -1,9 +1,10 @@
-![](https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge)
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
 </div>
+![](https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge)
+
+
+
 <img src="https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge" width="100"/>
 <h1>
   hey there
