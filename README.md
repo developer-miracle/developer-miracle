@@ -29,7 +29,8 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - I like <div>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width=40></img>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" height="40"></img>
+  <img src="https://media.giphy.com/media/lVk3vhcbd9SzI5KxVw/giphy.gif" width="40" height="40"/>
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -78,9 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <div>
-  <img src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="100" height="100"/>
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/lVk3vhcbd9SzI5KxVw/giphy.gif" width="100"/>
 </div>
