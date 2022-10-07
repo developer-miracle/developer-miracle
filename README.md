@@ -26,6 +26,10 @@
   <img src="https://media.giphy.com/media/uSHMDTUL7lKso/giphy.gif" width="100%"/>
 </div>
 <img src="https://media.giphy.com/media/lVk3vhcbd9SzI5KxVw/giphy.gif" width="100px"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmiracle&layout=radical)](https://github.com/alikiny/github-readme-stats)
+
+
 <!--
 **devMiracle/devmiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
