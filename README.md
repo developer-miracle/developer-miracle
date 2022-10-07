@@ -57,7 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmiracle&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmiracle&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmiracle&langs_count=8&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -92,4 +92,3 @@ https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
 </div>
 <img src="https://media.giphy.com/media/lVk3vhcbd9SzI5KxVw/giphy.gif" width="100px"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmiracle&layout=radical)](https://github.com/alikiny/github-readme-stats)
