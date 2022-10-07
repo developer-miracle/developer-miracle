@@ -4,6 +4,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge" width="160"/>
 </div>
+<div>
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE-873b44252/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img>
+</a>
+</div>
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
