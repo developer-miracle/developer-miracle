@@ -7,7 +7,7 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge" width="100"/>
+<img src="https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge" width="200"/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
