@@ -81,7 +81,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="100"/>
