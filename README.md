@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
 </div>
-![](https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge)
+<div>
+  ![](https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge)
+</div>
 
 
 
