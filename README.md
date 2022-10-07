@@ -75,36 +75,30 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmiracle&langs_count=8&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ---
 
-<div id="header" align="center">
+<div">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div>
   <img src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
-  <img src="
-https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+<div>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div>
   <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div>
   <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div>
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="100"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/uSHMDTUL7lKso/giphy.gif" width="100%"/>
-</div>
+
 <img src="https://media.giphy.com/media/lVk3vhcbd9SzI5KxVw/giphy.gif" width="100px"/>
 
