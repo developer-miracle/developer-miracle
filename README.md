@@ -28,7 +28,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- L like <div>
+- I like <div width=40>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></img>
 </div>
 
