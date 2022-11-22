@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devmiracle&color=blue&style=for-the-badge" width="160"/>
+  <img src="https://komarev.com/ghpvc/?username=developer-miracle&color=blue&style=for-the-badge" width="160"/>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE-873b44252/">
