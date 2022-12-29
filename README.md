@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I'm working on a pet-project, read tech articles and study <img src="https://github.com/developer-miracle/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Mobx" alt="Mobx" width="40" height="40"/>.
+- :zap: In my free time, I'm working on a pet-project and read tech articles.
 
 - :mailbox:How to reach me: 
 <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE-873b44252/">
