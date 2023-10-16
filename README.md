@@ -1,15 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"     font-size="12px" width="200"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=developer-miracle&style=for-the-badge&color=yellow" width="160" height=40 alt="developer-miracle" />
+  <img src="https://komarev.com/ghpvc/?username=developer-miracle&style=for-the-badge&color=yellow" font-size="12px" width="160" height=40 alt="developer-miracle" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/followers/developer-miracle?style=for-the-badge&color=yellow" width="160" height=40 alt="developer-miracle" />
+  <img src="https://img.shields.io/github/followers/developer-miracle?style=for-the-badge&color=yellow" font-size="12px" width="160" height=40 alt="developer-miracle" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/stars/developer-miracle?style=for-the-badge&color=yellow" width="160" height=40 alt="developer-miracle" />
+  <img src="https://img.shields.io/github/stars/developer-miracle?style=for-the-badge&color=yellow" font-size="12px" width="160" height=40 alt="developer-miracle" />
 </div>
 
 
