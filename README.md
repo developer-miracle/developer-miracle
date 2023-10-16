@@ -6,10 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=developer-miracle&color=yellow&style=for-the-badge" width="160"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/followers/developer-miracle?color=%23cc9900" alt="developer-miracle" />
+  <img src="https://img.shields.io/github/followers/developer-miracle?style=for-the-badge&color=yellow" alt="developer-miracle" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/stars/developer-miracle?color=%23cc9900" alt="developer-miracle" />
+  <img src="https://img.shields.io/stars/followers/developer-miracle?style=for-the-badge&color=yellow" alt="developer-miracle" />
 </div>
 
 
