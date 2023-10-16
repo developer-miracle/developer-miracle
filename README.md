@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=developer-miracle&color=yellow&style=for-the-badge" width="160"/>
+  <img src="https://komarev.com/ghpvc/?username=developer-miracle&color=yellow&style=for-the-badge?label=test" width="160" alt="developer-miracle" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/followers/developer-miracle?style=for-the-badge&color=yellow" alt="developer-miracle" />
+  <img src="https://img.shields.io/github/followers/developer-miracle?style=for-the-badge&color=yellow?label=test" alt="developer-miracle" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/stars/developer-miracle?style=for-the-badge&color=yellow" alt="developer-miracle" />
+  <img src="https://img.shields.io/github/stars/developer-miracle?style=for-the-badge&color=yellow?label=test" alt="developer-miracle" />
 </div>
 
 
