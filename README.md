@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/developer-miracle?style=for-the-badge&color=yellow" width="160" height=40 alt="developer-miracle" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/stars/developer-miracle?style=for-the-badge&color=yellow&label=   stars   " width="160" height=40 alt="developer-miracle" />
+  <img src="https://img.shields.io/github/stars/developer-miracle?style=for-the-badge&color=yellow&label=%nbsp;stars%nbsp;" width="160" height=40 alt="developer-miracle" />
 </div>
 
 
