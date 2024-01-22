@@ -1,95 +1,21 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=developer-miracle&style=for-the-badge&color=yellow" height=40 alt="developer-miracle" />
-
-  <img src="https://img.shields.io/github/followers/developer-miracle?style=for-the-badge&color=yellow" height=40 alt="developer-miracle" />
-
-  <img src="https://img.shields.io/github/stars/developer-miracle?style=for-the-badge&color=yellow" height=40 alt="developer-miracle" />
-</div>
-
----
-<div align="center">
-  <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE-873b44252/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="160" height="40"></img>
-  </a>
-</div>
-<div align="center">
-  <a href="https://t.me/Miracle_tsx">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="160" height="40"></img>
-  </a>
-</div>
+# 💫 About Me
+🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.br👯 I'm looking for collaboration in software writing.br🌱 In my free time, I'm working on a pet-project and read tech articles.br⚡ Let's make this world a better place
 
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
-</div>
+## 🌐 Socials
+[![Facebook](httpsimg.shields.iobadgeFacebook-%231877F2.svglogo=Facebook&logoColor=white)](httpsfacebook.comhttpswww.facebook.comprofile.phpid=100012998530636) [![Instagram](httpsimg.shields.iobadgeInstagram-%23E4405F.svglogo=Instagram&logoColor=white)](httpsinstagram.comhttpswww.instagram.commiracle.tsx) 
 
-### :man_technologist: About Me :
+# 💻 Tech Stack
+![JavaScript](httpsimg.shields.iobadgejavascript-%23323330.svgstyle=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](httpsimg.shields.iobadgejava-%23ED8B00.svgstyle=for-the-badge&logo=openjdk&logoColor=white) ![C#](httpsimg.shields.iobadgec%23-%23239120.svgstyle=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](httpsimg.shields.iobadgetypescript-%23007ACC.svgstyle=for-the-badge&logo=typescript&logoColor=white) ![HTML5](httpsimg.shields.iobadgehtml5-%23E34F26.svgstyle=for-the-badge&logo=html5&logoColor=white) ![CSS3](httpsimg.shields.iobadgecss3-%231572B6.svgstyle=for-the-badge&logo=css3&logoColor=white) ![PHP](httpsimg.shields.iobadgephp-%23777BB4.svgstyle=for-the-badge&logo=php&logoColor=white) ![Firebase](httpsimg.shields.iobadgefirebase-%23039BE5.svgstyle=for-the-badge&logo=firebase) ![Azure](httpsimg.shields.iobadgeazure-%230072C6.svgstyle=for-the-badge&logo=microsoftazure&logoColor=white) ![Webpack](httpsimg.shields.iobadgewebpack-%238DD6F9.svgstyle=for-the-badge&logo=webpack&logoColor=black) ![Nginx](httpsimg.shields.iobadgenginx-%23009639.svgstyle=for-the-badge&logo=nginx&logoColor=white) ![Apache](httpsimg.shields.iobadgeapache-%23D42029.svgstyle=for-the-badge&logo=apache&logoColor=white) ![MongoDB](httpsimg.shields.iobadgeMongoDB-%234ea94b.svgstyle=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](httpsimg.shields.iobadgemysql-%2300000f.svgstyle=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](httpsimg.shields.iobadgeMicrosoft%20SQL%20Server-CC2927style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](httpsimg.shields.iobadgepostgres-%23316192.svgstyle=for-the-badge&logo=postgresql&logoColor=white) ![React](httpsimg.shields.iobadgereact-%2320232a.svgstyle=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](httpsimg.shields.iobadgereact_native-%2320232a.svgstyle=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](httpsimg.shields.iobadgeexpo-1C1E24style=for-the-badge&logo=expo&logoColor=#D04A37) ![Figma](httpsimg.shields.iobadgefigma-%23F24E1E.svgstyle=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](httpsimg.shields.iobadgeadobe%20photoshop-%2331A8FF.svgstyle=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NodeJS](httpsimg.shields.iobadgenode.js-6DA55Fstyle=for-the-badge&logo=node.js&logoColor=white) ![Docker](httpsimg.shields.iobadgedocker-%230db7ed.svgstyle=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats
+![](httpsgithub-readme-stats.vercel.appapiusername=developer-miracle&theme=swift&hide_border=true&include_all_commits=false&count_private=false)br
+![](httpsgithub-readme-streak-stats.herokuapp.comuser=developer-miracle&theme=swift&hide_border=true)br
+![](httpsgithub-readme-stats.vercel.appapitop-langsusername=developer-miracle&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
-- I like <div>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" height="40"/>
-</div>
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I'm working on a pet-project and read tech articles.
-
-- :mailbox:How to reach me: 
-<a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE-873b44252/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" height="30"></img>
-</a> <a href="https://t.me/Miracle_tsx">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" width="100" height="30"></img>
-</a>
+### ✍️ Random Dev Quote
+![](httpsquotes-github-readme.vercel.appapitype=vetical&theme=gruvbox)
 
 ---
+[![](httpsvisitcount.itsvg.inapiid=developer-miracle&icon=6&color=12)](httpsvisitcount.itsvg.in)
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/developer-miracle/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/developer-miracle/mobx/blob/main/docs/assets/mobx.png" title="Mobx" alt="Mobx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/developer-miracle/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/developer-miracle/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/developer-miracle/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/developer-miracle/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/developer-miracle/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developer-miracle&theme=darcula)](https://git.io/streak-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-miracle&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-miracle&langs_count=8&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="100" height="100"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="100" height="100"/>
-</div>
+!-- Proudly created with GPRM ( httpsgprm.itsvg.in ) --
