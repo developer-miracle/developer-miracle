@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>👯 I'm looking for collaboration in software writing.<br>🌱 In my free time, I'm working on a pet-project and read tech articles.<br>⚡ Let's make this world a better place/<br>⚡ I have no special talent. I am only passionately curious.
+🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>👯 I'm looking for collaboration in software writing.<br>🌱 In my free time, I'm working on a pet-project and read tech articles.<br>⚡ I have no special talent. I am only passionately curious.<br>⚡ Let's make this world a better place.
 
 
 ## 🌐 Socials:
