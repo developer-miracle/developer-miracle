@@ -36,5 +36,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
----
-
+<br>
+![](https://komarev.com/ghpvc/?username=Char-Al&style=flat-square&label=Views)
